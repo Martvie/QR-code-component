@@ -13,7 +13,10 @@ body {
 .container {
     background-color: var(--white);
     border-radius: 20px;
-    height: 450px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 300px;
 }
 
@@ -21,4 +24,21 @@ body {
     height: 270px;
     margin-top: 15px;
     border-radius: 15px;
+}
+
+.container .description {
+    width: 250px;
+}
+
+
+.container .description h1 {
+    font-weight: 700;
+    margin-top: 20px;
+    color: var(--dark-blue);
+    font-size: 20px;
+}
+
+.container .description p {
+    margin-top: 20px;
+    color: var(--grayish-blue);
 }
