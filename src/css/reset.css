@@ -6,7 +6,6 @@
     border: none;
     outline: none;
     font-weight: 400;
-    font-size: 15px;
     box-sizing: border-box;   
     font-family: 'Outfit', sans-serif;
     background: none;
@@ -16,5 +15,5 @@ img {
     max-width: 100%;
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 1.5em; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
