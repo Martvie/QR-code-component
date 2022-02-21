@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/resolution-using-flex-and-css-variables-lrtLVVotq)
-- Live Site URL: [Add live site URL here](https://martvie.github.io/QR-code-component/)
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/resolution-using-flex-and-css-variables-lrtLVVotq" target="_blank">Here</a>
+- Live Site URL: <a href="https://martvie.github.io/QR-code-component/" target="_blank">Here</a>
 
 ## My process
 
@@ -36,6 +36,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Marcus Vieira](https://github.com/Martvie)
-- Frontend Mentor - [@Martvie](https://www.frontendmentor.io/profile/Martvie)
-- Twitter - [@_Fukuz](https://twitter.com/_Fukuz)
+- Website - <a href="https://github.com/Martvie" target="_blank"> Marcus Vieira </a>
+- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/Martvie" target="_blank"> @Martvie </a>
+- Twitter - <a href="https://twitter.com/_Fukuz" target="_blank"> @_Fukuz </a>
